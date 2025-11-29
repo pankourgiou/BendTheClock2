@@ -85,10 +85,10 @@ zodiac = [zodiac[11]] + zodiac[:11]
 techno = [ "a∅","aa∇","c∆","cba∂","4∞","9≈","a3ca⊕","co⊗","10≡","001≥","4abc≤","0±" ]
 techno = [techno[11]] + techno[:11]
 
-geometry = [ "Ϟ","ϟ","Ϡ","ϡ","҉","҈","҂","N9ck҃","҄N0ck","҅N3ck","҆Zer","҇Ekh" ]
+geometry = [ "EiϞ","ϟcience","Ϡ","ϡ","҉","҈","҂","N9ck҃","҄N0ck","҅N3ck","҆Zer","҇Ekh" ]
 geometry = [geometry[11]] + geometry[:11]
 
-spectral = [ "Ϟ","ϟ","Ϡ","ϡ","҉","҈","҂","҃","҄","҅","҆","҇" ]
+spectral = [ "Ϟ","Eiϟ","Ϡ","ϡ","҉","҈","҂","҃","҄","҅","҆","҇" ]
 spectral = [spectral[11]] + spectral[:11]
 
 label_sets = [
